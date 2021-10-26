@@ -14,7 +14,7 @@
 <p align="lift">
     <h3>About me</h3>
     <p>
-        I've been in the IT field since 2015
+        I've been in the IT since 2015
     </p>
     <p>
         Currently working as a Software QA Analyst, performing manual tests and starting test automation project with RobotFramework.
