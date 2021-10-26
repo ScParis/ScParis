@@ -45,6 +45,8 @@
             <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" width="40">
         </a>| <a href="https://www.instagram.com/sc_paris/">
             <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" width="40">
+        </a>| <a href="https://wa.me/qr/B32TCJSJNKEVP1">
+            <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-256.png" width="40">
         </a>
         </p>
     </div>
