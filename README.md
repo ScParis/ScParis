@@ -1,4 +1,8 @@
 <div align="center">
+	<h2>🏆 GitHub Trophies</h2>
+	<img src="https://github-profile-trophy.vercel.app/?username=ScParis&theme=nord&column=7" >
+</div>
+<div align="center">
 	<a href="https://github.com/ScParis">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ScParis&amp;theme=dark&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" />
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScParis&amp;layout=compact&amp;theme=dark" />
@@ -154,5 +158,3 @@
 		</p>
 	</div>
 </div>
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=ScParis&theme=nord&column=7" >
