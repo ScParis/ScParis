@@ -154,3 +154,5 @@
 		</p>
 	</div>
 </div>
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=ScParis&theme=nord&column=7" >
