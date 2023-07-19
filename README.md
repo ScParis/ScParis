@@ -25,12 +25,18 @@
 		 About me
 	</strong>
 </h3>
+<body>
 <p>
-	I've been in the IT field since 2015
+	I have been working in IT since 2015. 
 </p>
 <p>
-	Currently working as a Software QA Analyst, performing manual tests and implementing the test automation project with RobotFramework.
+	Currently, I serve as a Business Analyst, documenting business rules and requirements, and leading teams. <br> 
+	Previously, I worked as a Test Automation Developer, conducting manual tests and initiating test automation projects using RobotFramework. <br> 
+	I am skilled in database querying and RESTful API usage. With strong communication and problem-solving abilities, I excel in customer support and team management.<br>
+	Proactive and eager for professional growth, I embrace challenges to deliver outstanding results for the company.
 </p>
+</body>	
+
 <h3>
 	<strong>
 		 Knowledge:
