@@ -9,7 +9,7 @@
 
 ## 💼 Sobre Mim
 
-Sou um Gerente de Projetos experiente com mais de 8 anos de atuação na área de TI, focado em liderar projetos de sucesso e impulsionar a inovação. Atualmente, gerencio projetos na **PipeRun CRM** e sou Business Analyst na mesma empresa, onde lidero equipes multidisciplinares e implemento soluções de alta qualidade.
+Sou um Gerente de Projetos experiente com mais de 8 anos de atuação na área de TI, focado em liderar projetos de sucesso e impulsionar a inovação. Atualmente, gerencio projetos na **PipeRun CRM**, onde lidero equipes multidisciplinares e implemento soluções de alta qualidade.
 
 Minha paixão por tecnologia me levou a desenvolver habilidades em automação de testes, utilizando Robot Framework para garantir a qualidade e a confiabilidade das soluções que implemento.
 
